@@ -51,6 +51,7 @@ python2 Craker.py
 ```
 ### Fitures
 <img src="https://github.com/Yayan-XD/MBF/blob/main/Screenshot_20201003_034211.png" />
+
 ```
 - Multi acc login
 - Mutli type login
