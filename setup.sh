@@ -1,6 +1,4 @@
 #!/bin/bash
-#Bakekok bunda xixixi:v
-#Mau ngapain om? gada apa2 disini
 echo
 echo "Tunggu Sampai Proses Selesai Tod Sabar..!"
 echo "Ucapkan Yayan Ganteng 3X Biar Work Xixixi:v"
@@ -11,6 +9,10 @@ clear
 gem install lolcat
 clear
 pkg install figlet
+clear
+figlet YayanXD | lolcat
+clear
+figlet YayanXD | lolcat
 clear
 figlet YayanXD | lolcat
 clear
