@@ -1,13 +1,16 @@
 #!/bin/bash
-echo
-echo "Tunggu Sampai Proses Selesai Ya Anjing, Sabar..!"
-echo "Ucapkan Yayan Ganteng 3X Biar Work Xixixi:v"
-echo
+#Bakekok bunda xixixi:v
+#Mau ngapain om? gada apa2 disini
+clear
 pkg install python
+clear
 pkg install ruby -y
 clear
 gem install lolcat
-clear
+echo
+echo "Tunggu Sampai Proses Selesai Ya Anjing, Sabar..!" | lolcat
+echo "Ucapkan Yayan Ganteng 3X Biar Work Xixixi:v" |lolcat
+echo
 pkg install figlet
 clear
 figlet YayanXD | lolcat
