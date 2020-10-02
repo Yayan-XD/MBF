@@ -13,14 +13,18 @@ clear
 gem install lolcat
 clear
 figlet YayanXD | lolcat
+sleep 2
 clear
 figlet YayanXD | lolcat
+sleep 2
 clear
+echo
 echo "██    ██ ██   ██ ███    ██ ███████ " | lolcat
 echo " ██  ██  ██   ██ ████   ██    ███  " | lolcat
 echo "  ████   ███████ ██ ██  ██   ███   " | lolcat
 echo "   ██         ██ ██  ██ ██  ███    " | lolcat
 echo "   ██         ██ ██   ████ ███████ " | lolcat
+echo
 clear
 echo
 echo "╭╮╮╱▔▔▔▔╲╭╭╮╭╮╮╱▔▔▔▔╲╭╭╮╭╮╮╱▔▔▔▔╲╭╭╮" | lolcat
