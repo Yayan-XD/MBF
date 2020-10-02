@@ -1,7 +1,6 @@
 #!/bin/bash
 #Bakekok bunda xixixi:v
 #Mau ngapain om? gada apa2 disini
-clear
 echo
 echo "Tunggu Sampai Proses Selesai Tod Sabar..!"
 echo "Ucapkan Yayan Ganteng 3X Biar Work Xixixi:v"
@@ -16,21 +15,30 @@ clear
 figlet YayanXD | lolcat
 clear
 echo
-echo "╭╮╮╱▔▔▔▔╲╭╭╮" | lolcat
-echo "╰╲╲▏▂╲╱▂▕╱╱╯" | lolcat
-echo "┈┈╲▏▇▏▕▇▕╱┈┈" | lolcat
-echo "┈┈╱╲▔▕▍▔╱╲┈┈" | lolcat
-echo "╭╱╱▕╋╋╋╋▏╲╲╮" | lolcat
-echo "╰╯╯┈╲▂▂╱┈╰╰╯" | lolcat
+echo "╭╮╮╱▔▔▔▔╲╭╭╮╭╮╮╱▔▔▔▔╲╭╭╮╭╮╮╱▔▔▔▔╲╭╭╮" | lolcat
+echo "╰╲╲▏▂╲╱▂▕╱╱╯╰╲╲▏▂╲╱▂▕╱╱╯╰╲╲▏▂╲╱▂▕╱╱╯" | lolcat
+echo "┈┈╲▏▇▏▕▇▕╱┈┈┈┈╲▏▇▏▕▇▕╱┈┈┈┈╲▏▇▏▕▇▕╱┈┈" | lolcat
+echo "┈┈╱╲▔▕▍▔╱╲┈┈┈┈╱╲▔▕▍▔╱╲┈┈┈┈╱╲▔▕▍▔╱╲┈┈" | lolcat
+echo "╭╱╱▕╋╋╋╋▏╲╲╮╭╱╱▕╋╋╋╋▏╲╲╮╭╱╱▕╋╋╋╋▏╲╲╮" | lolcat
+echo "╰╯╯┈╲▂▂╱┈╰╰╯╰╯╯┈╲▂▂╱┈╰╰╯╰╯╯┈╲▂▂╱┈╰╰╯" | lolcat
 echo
 clear
 echo
-echo "╭╮╮╱▔▔▔▔╲╭╭╮" | lolcat
-echo "╰╲╲▏▂╲╱▂▕╱╱╯" | lolcat
-echo "┈┈╲▏▇▏▕▇▕╱┈┈" | lolcat
-echo "┈┈╱╲▔▕▍▔╱╲┈┈" | lolcat
-echo "╭╱╱▕╋╋╋╋▏╲╲╮" | lolcat
-echo "╰╯╯┈╲▂▂╱┈╰╰╯" | lolcat
+echo "╭╮╮╱▔▔▔▔╲╭╭╮╭╮╮╱▔▔▔▔╲╭╭╮╭╮╮╱▔▔▔▔╲╭╭╮" | lolcat
+echo "╰╲╲▏▂╲╱▂▕╱╱╯╰╲╲▏▂╲╱▂▕╱╱╯╰╲╲▏▂╲╱▂▕╱╱╯" | lolcat
+echo "┈┈╲▏▇▏▕▇▕╱┈┈┈┈╲▏▇▏▕▇▕╱┈┈┈┈╲▏▇▏▕▇▕╱┈┈" | lolcat
+echo "┈┈╱╲▔▕▍▔╱╲┈┈┈┈╱╲▔▕▍▔╱╲┈┈┈┈╱╲▔▕▍▔╱╲┈┈" | lolcat
+echo "╭╱╱▕╋╋╋╋▏╲╲╮╭╱╱▕╋╋╋╋▏╲╲╮╭╱╱▕╋╋╋╋▏╲╲╮" | lolcat
+echo "╰╯╯┈╲▂▂╱┈╰╰╯╰╯╯┈╲▂▂╱┈╰╰╯╰╯╯┈╲▂▂╱┈╰╰╯" | lolcat
+echo
+clear
+echo
+echo "╭╮╮╱▔▔▔▔╲╭╭╮╭╮╮╱▔▔▔▔╲╭╭╮╭╮╮╱▔▔▔▔╲╭╭╮" | lolcat
+echo "╰╲╲▏▂╲╱▂▕╱╱╯╰╲╲▏▂╲╱▂▕╱╱╯╰╲╲▏▂╲╱▂▕╱╱╯" | lolcat
+echo "┈┈╲▏▇▏▕▇▕╱┈┈┈┈╲▏▇▏▕▇▕╱┈┈┈┈╲▏▇▏▕▇▕╱┈┈" | lolcat
+echo "┈┈╱╲▔▕▍▔╱╲┈┈┈┈╱╲▔▕▍▔╱╲┈┈┈┈╱╲▔▕▍▔╱╲┈┈" | lolcat
+echo "╭╱╱▕╋╋╋╋▏╲╲╮╭╱╱▕╋╋╋╋▏╲╲╮╭╱╱▕╋╋╋╋▏╲╲╮" | lolcat
+echo "╰╯╯┈╲▂▂╱┈╰╰╯╰╯╯┈╲▂▂╱┈╰╰╯╰╯╯┈╲▂▂╱┈╰╰╯" | lolcat
 echo
 clear
 pip2 install -r requirements.txt
