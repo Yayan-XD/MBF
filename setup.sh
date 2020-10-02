@@ -51,3 +51,4 @@ clear
 pip2 install requests
 clear
 python2 mbf.py
+clear
