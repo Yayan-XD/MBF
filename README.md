@@ -39,15 +39,15 @@ Multi Brute Force
 
 ### Install
 ```
+pkg update && pkg upgrade
 pkg install git python2
 pip2 install --upgrade pip
-git clone https://github.com/Yayan-XD/MBF
 ```
 ### And MBF this script
 ```
+git clone https://github.com/Yayan-XD/MBF
 cd MBF
 bash setup.sh
-python2 mbf.py
 ```
 ### Fitures
 <img src="https://github.com/Yayan-XD/MBF/blob/main/Screenshot_20201003_034211.png" />
