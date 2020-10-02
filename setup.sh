@@ -10,15 +10,11 @@ pkg install ruby -y
 clear
 gem install lolcat
 clear
-echo " __      __  __    __  __    __   ______  " | lolcat
-echo "|  \    /  \|  \  |  \|  \  |  \ /      \ " | lolcat
-echo " \$$\  /  $$| $$  | $$| $$\ | $$|  $$$$$$\" | lolcat
-echo "  \$$\/  $$ | $$__| $$| $$$\| $$ \$$__| $$" | lolcat
-echo "   \$$  $$  | $$    $$| $$$$\ $$ /      $$" | lolcat
-echo "    \$$$$    \$$$$$$$$| $$\$$ $$|  $$$$$$ " | lolcat
-echo "    | $$          | $$| $$ \$$$$| $$_____ " | lolcat
-echo "    | $$          | $$| $$  \$$$| $$     \" | lolcat
-echo "     \$$           \$$ \$$   \$$ \$$$$$$$$" | lolcat
+echo "██    ██ ██   ██ ███    ██ ███████ " | lolcat
+echo " ██  ██  ██   ██ ████   ██    ███  " | lolcat
+echo "  ████   ███████ ██ ██  ██   ███   " | lolcat
+echo "   ██         ██ ██  ██ ██  ███    " | lolcat
+echo "   ██         ██ ██   ████ ███████ " | lolcat
 clear
 echo
 echo "╭╮╮╱▔▔▔▔╲╭╭╮╭╮╮╱▔▔▔▔╲╭╭╮╭╮╮╱▔▔▔▔╲╭╭╮" | lolcat
