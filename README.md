@@ -47,7 +47,7 @@ git clone https://github.com/Yayan-XD/MBF
 ```
 cd MBF
 bash setup.sh
-python2 Craker.py
+python2 mbf.py
 ```
 ### Fitures
 <img src="https://github.com/Yayan-XD/MBF/blob/main/Screenshot_20201003_034211.png" />
