@@ -37,4 +37,17 @@ Multi Brute Force
 </div>
 <p align="center">
 
+### Install
+```
+pkg install git python2
+pip2 install --upgrade pip
+git clone https://github.com/Yayan-XD/MBF
+```
+### And MBF this script
+```
+cd MBF
+bash setup.sh
+python2 Craker.py
+```
+
 <img src="https://github.com/Yayan-XD/MBF/blob/main/Screenshot_20201003_034211.png" />
