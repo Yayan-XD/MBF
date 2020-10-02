@@ -49,5 +49,10 @@ cd MBF
 bash setup.sh
 python2 Craker.py
 ```
-
+### Fitures
 <img src="https://github.com/Yayan-XD/MBF/blob/main/Screenshot_20201003_034211.png" />
+
+- Multi acc login ( Enakan login token gan biar gak kena chekponit  )
+- Mutli type login
+   - User pass
+   - Token
