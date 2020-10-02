@@ -15,9 +15,6 @@ pkg install figlet
 clear
 figlet YayanXD | lolcat
 clear
-figlet YayanXD | lolcat
-clear
-figlet YayanXD | lolcat
 echo
 echo "╭╮╮╱▔▔▔▔╲╭╭╮" | lolcat
 echo "╰╲╲▏▂╲╱▂▕╱╱╯" | lolcat
@@ -26,6 +23,16 @@ echo "┈┈╱╲▔▕▍▔╱╲┈┈" | lolcat
 echo "╭╱╱▕╋╋╋╋▏╲╲╮" | lolcat
 echo "╰╯╯┈╲▂▂╱┈╰╰╯" | lolcat
 echo
+clear
+echo
+echo "╭╮╮╱▔▔▔▔╲╭╭╮" | lolcat
+echo "╰╲╲▏▂╲╱▂▕╱╱╯" | lolcat
+echo "┈┈╲▏▇▏▕▇▕╱┈┈" | lolcat
+echo "┈┈╱╲▔▕▍▔╱╲┈┈" | lolcat
+echo "╭╱╱▕╋╋╋╋▏╲╲╮" | lolcat
+echo "╰╯╯┈╲▂▂╱┈╰╰╯" | lolcat
+echo
+clear
 pip2 install -r requirements.txt
 clear
 pip2 install mechanize
