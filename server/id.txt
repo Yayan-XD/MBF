@@ -1,3 +1,2 @@
-     KEY             |    NAMA     | KADALUARSA    BERGABUNG
----------------------------------------------------------------
-d0b43a2117a441bda66a |   YAYAN     | 20-03-2030   | 30-03-2021
+     key             # nama     # kadaluarsa  # bergabung
+d0b43a2117a441bda66a # YAYAN     # 20-03-2030  # 30-03-2021
